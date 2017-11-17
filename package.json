@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node src"
+  },
+  "dependencies": {
+    "nuxt": "^1.0.0-rc11"
+  }
+}
