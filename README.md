@@ -1,6 +1,6 @@
 # Nuxt.js template for codesandbox
 
-This is an still WIP project. (And not working!)
+## Depricated! Please refer to https://github.com/nuxt/codesandbox-nuxt 
 
 ## How to deploy
 
